@@ -1,0 +1,1 @@
+working endpoints: http://localhost:3000 , http://localhost:3000/api , http://localhost:3000/api/images?imageName=fjord&height=200&width=200
